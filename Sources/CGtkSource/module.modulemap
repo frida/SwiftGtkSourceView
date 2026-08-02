@@ -1,0 +1,4 @@
+module CGtkSource [system] {
+    header "gtksource_bridging.h"
+    export *
+}
